@@ -1,0 +1,307 @@
+{
+  "objectifs": {
+    "O1": "Objectif 1",
+    "O2": "Objectif 2",
+    "O3": "Objectif 3",
+    "O4": "Objectif 4",
+    "O5": "Objectif 5",
+    "O6": "Objectif 6",
+    "O7": "Objectif 7",
+    "O8": "Objectif 8",
+    "O9": "Objectif 9",
+    "O10": "Objectif 10",
+    "O11": "Objectif 11",
+    "O12": "Objectif 12",
+    "O13": "Objectif 13",
+    "O14": "Objectif 14"
+  },
+  "competences": {
+    "CO1": {
+      "objectif": "O1",
+      "libelle": "S'intégrer dans un environnement professionnel, assurer une veille technologique et capitaliser l’expérience Compétences détail- Savoirs Données Indicateurs de performance lées associés Bureau d’études de con- C1.1 Respecter des L'ensemble des référentiels est",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-2",
+        "1-3"
+      ]
+    },
+    "CO1.2": {
+      "objectif": "O1",
+      "libelle": "Intégrer une ac- Les procédures relatives à la démarche qualité conception, de sauve- tion d’étude dans une sont identifiées et respectées. gardes, de validation, démarche «qualité». d’archivage et de modifica- tions.",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-1-1",
+        "1-1",
+        "1-1-2"
+      ]
+    },
+    "CO1.3": {
+      "objectif": "O1",
+      "libelle": "Contribuer à Tous les éléments essentiels sont répertoriés l’archivage, à la traça- et ajoutés à l’archive de l’entreprise. bilité de l’étude et à la Les procédures d’utilisation du système de capitalisation des expé- gestion de données sont scrupuleusement ri",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-1",
+        "1-1-1",
+        "1-1-3"
+      ]
+    },
+    "CO1.4": {
+      "objectif": "O1",
+      "libelle": "Maîtriser le bon La communication technique est maîtrisée sur usage des outils de la forme et les outils sont adaptés aux besoins communication tech- et aux interlocuteurs. nique.",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-1-1",
+        "1-3-1",
+        "1-3-2"
+      ]
+    },
+    "CO1.5": {
+      "objectif": "O1",
+      "libelle": "Élaborer et suivre Les évolutions techniques de son champ l'évolution d'un dossier d’activité sont identifiées et capitalisées. technique de produit.",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-4"
+      ]
+    },
+    "CO2": {
+      "objectif": "O2",
+      "libelle": "Rechercher une information dans une documentation technique, dans un réseau local ou à distance. Compétences détail- Savoirs Données Indicateurs de performance lées associés Catalogues constructeurs, C2.1 Mettre en œuvre L'information recherchée est réordonnée",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-4",
+        "4-3"
+      ]
+    },
+    "CO2.2": {
+      "objectif": "O2",
+      "libelle": "Classer, hiérar- La démarche et les critères de choix pour l'ob- chiser des informa- tention de l'information sont efficients. tions.",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-1-1",
+        "1-1",
+        "1-1-2"
+      ]
+    },
+    "CO2.3": {
+      "objectif": "O2",
+      "libelle": "Synthétiser une La synthèse proposée résume les points im- information. portants. BTS Conception des Produits Industriels - Page 18 / 106",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-3",
+        "1-1",
+        "1-1-1"
+      ]
+    },
+    "CO3": {
+      "objectif": "O3",
+      "libelle": "Formuler et transmettre des informations, communiquer sous forme écrite et orale y compris en anglais Compétences détail- Savoirs Données Indicateurs de performance lées associés Une information à trans- C3.1 Choisir une stra- L’objectif, le public visé, le me",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "3-2-4"
+      ]
+    },
+    "CO3.2": {
+      "objectif": "O3",
+      "libelle": "Lire et rédiger un Le document technique est décodé de manière compte-rendu, un do- univoque. cument technique en Le compte-rendu écrit est lisible et concis. français et en anglais.",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": []
+    },
+    "CO3.3": {
+      "objectif": "O3",
+      "libelle": "Présenter orale- L’expression orale est claire. ment un rapport en Les messages sont concis et sans ambiguïté. français et en anglais. Le vocabulaire est pertinent et précis.",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-1-1"
+      ]
+    },
+    "CO3.4": {
+      "objectif": "O3",
+      "libelle": "Participer à un Le vocabulaire technique est pertinent et précis. échange technique en Les échanges techniques avec les interlocuteurs français et en anglais. sont compréhensibles.",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-3"
+      ]
+    },
+    "CO4": {
+      "objectif": "O4",
+      "libelle": "S’impliquer dans un groupe projet et argumenter des choix techniques Compétences détail- Savoirs Données Indicateurs de performance lées associés Les croquis, sché- C4.1 Argumenter, au Les critères techniques et économiques rete- S1.3 mas…d’études prélimi- sei",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-3",
+        "1-4",
+        "4-3",
+        "7-1"
+      ]
+    },
+    "CO4.4": {
+      "objectif": "O4",
+      "libelle": "Respecter la Les jalons du projet sont identifiés et respectés. Un ou des objectifs à durée d’étude attendue La durée d'étude est respectée. atteindre en phase de en phase avec le jalon- conception, pré industriali- Les éléments impactant les coûts de l'étude",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-1-1",
+        "1-1",
+        "1-1-2"
+      ]
+    },
+    "CO5": {
+      "objectif": "O5",
+      "libelle": "Elaborer ou participer à l’élaboration d’un cahier des charges fonctionnel. Compétences détail- Savoirs Données indicateurs de performance lées associés Un cahier des charges C5.1 Décoder un be- Les éléments essentiels du cahier des charges S1 initial issu de",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "7-1"
+      ]
+    },
+    "CO6": {
+      "objectif": "O6",
+      "libelle": "Recenser et spécifier des technologies et des moyens de réalisation Compétences détail- Savoirs Données Indicateurs de performance lées associés Besoin et CdCF Les moyens techniques de production internes S6 Moyens techniques de et externes sont caractérisés.",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "7-1"
+      ]
+    },
+    "CO7": {
+      "objectif": "O7",
+      "libelle": "Concevoir et définir, à l'aide d'un logiciel de CAO et des outils de simulation asso- ciés, un système, un outillage ou des pièces mécaniques satisfaisant au cahier des charges fonctionnel Compétences détail- Savoirs Données Indicateurs de performance lées ass",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "3-2",
+        "3-2-5",
+        "3-25"
+      ]
+    },
+    "CO8": {
+      "objectif": "O8",
+      "libelle": "Imaginer et proposer des solutions techniques en réponse à un cahier des charges. Compétences détail- Savoirs Données Indicateurs de performance lées associés Cahier des charges fonc- C8.1 Analyser et com- La décomposition en fonctions techniques est S1.1 tion",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-1",
+        "1-3",
+        "1-4"
+      ]
+    },
+    "CO9": {
+      "objectif": "O9",
+      "libelle": "Dimensionner tout ou partie d'une chaîne d'énergie en autonomie et/ou en collabo- ration avec un spécialiste. Compétences détail- Savoirs Données Indicateurs de performance lées associés Cahier des charges fonc- C9.1 Mobiliser les Les données de l'étude sont c",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "2-2",
+        "4-1"
+      ]
+    },
+    "CO10": {
+      "objectif": "O10",
+      "libelle": "Optimiser le choix d’une solution technique en tenant compte des contraintes technico économiques. Compétences détail- Savoirs Données Indicateurs de performance lées associés Maquette numérique. Les procédures qualité de l'entreprise sont S7.1 Plan qualité́ d",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "7-1"
+      ]
+    },
+    "CO11": {
+      "objectif": "O11",
+      "libelle": "Participer à un processus collaboratif de conception et de réalisation de produit Compétences détail- Savoirs Données Indicateurs de performance lées associés Cahier des charges fonc- C11.1 Collaborer au Le choix du matériau est correctement justifié. S6 tionn",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "7-1"
+      ]
+    },
+    "CO12": {
+      "objectif": "O12",
+      "libelle": "Intégrer l’éco-conception dans la conception d’un produit. Compétences détail- Savoirs Données Indicateurs de performance lées associés La réglementation en Les contraintes environnementales, utilisées S1 vigueur et la normalisation. pour la caractérisation de",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-4-2",
+        "7-1",
+        "1-1"
+      ]
+    },
+    "CO13": {
+      "objectif": "O13",
+      "libelle": "Intégrer le prototypage dans la conception et la réalisation d’un produit Compétences détail- Savoirs Données Indicateurs de performance lées associés Cahier des charges fonc- C13.1 Participer à une Les fonctions, géométries ou comportement à S7.2 tionnel bouc",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "7-2"
+      ]
+    },
+    "CO14": {
+      "objectif": "O14",
+      "libelle": "Elaborer le dossier de définition d’un produit mécanique (pièces cotées et toléran- cées) Compétences détail- Savoirs Données Indicateurs de performance lées associés Le dossier technique nu- C14.1 Réaliser des Le respect de la normalisation et de la lisibilit",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "2-3",
+        "2-4"
+      ]
+    },
+    "CO14.2": {
+      "objectif": "O14",
+      "libelle": "Réaliser un Une démarche explicite de spécification est dé matériau. dessin de définition de mobilisée et permet de garantir la traçabilité. pièce, coté, tolérancé. Les spécifications de fonctionnement (chaînes de cotes, conditions géométriques, états de surfa",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "6-1",
+        "1-1",
+        "1-1-1"
+      ]
+    },
+    "CO7.5": {
+      "objectif": "O7",
+      "libelle": "Solutions constructives associées aux liaisons",
+      "niveaux": {
+        "BTS": ""
+      },
+      "connaissances": [
+        "1-1-1",
+        "1-1",
+        "1-1-2"
+      ]
+    }
+  }
+}

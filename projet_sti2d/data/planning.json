@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "titre": "Réseau",
+    "theme_id": "T1",
+    "theme_titre": "Concevoir une maison positive",
+    "pb_titre": "Peut-on travailler en équipe sans maîtriser les unités et leur conversion ?",
+    "classe": "1ère I2D",
+    "s_debut": 1,
+    "s_fin": 3,
+    "heures": "30",
+    "competences_str": "CO1.1, CO1.3",
+    "competences_selectionnees": [
+      {
+        "code": "CO1.1",
+        "connaissances": [
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-1",
+          "4-2"
+        ]
+      },
+      {
+        "code": "CO1.3",
+        "connaissances": [
+          "1-5",
+          "3-1",
+          "3-3",
+          "4-1",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3"
+        ]
+      }
+    ],
+    "couleur": "#ca310b",
+    "semaines": {
+      "1": {
+        "seances": [
+          {
+            "id": "3fdce05c",
+            "type": "Cours",
+            "duree": 1.0,
+            "titre": "Nouvelle problématique",
+            "pb_titre": "Comment évaluer les performance d'un panneau solaire ?",
+            "jour": "Mardi",
+            "heure_debut": "10:00",
+            "heure_fin": "11:00",
+            "competences_visees": [
+              "CO3.2"
+            ],
+            "connaissances_abordees": [
+              "1-2",
+              "2-3",
+              "4-3"
+            ],
+            "document_genere": null
+          },
+          {
+            "id": "b72faf1a",
+            "type": "TD",
+            "duree": 2.0,
+            "titre": "Nouvelle problématique",
+            "pb_titre": "Comment optimiser les performance d'une installation photovoltaïque ?",
+            "jour": "Mercredi",
+            "heure_debut": "8:00",
+            "heure_fin": "10:00",
+            "competences_visees": [
+              "CO3.3"
+            ],
+            "connaissances_abordees": [
+              "1-2",
+              "4-3"
+            ],
+            "document_genere": null
+          }
+        ]
+      },
+      "2": {
+        "seances": [
+          {
+            "id": "24fad91f",
+            "type": "TP",
+            "duree": 2.0,
+            "titre": "Peut-on travailler en équipe sans maîtriser les unités et leur conversion ?",
+            "pb_titre": "Comment évaluer les performance d'un panneau solaire ?",
+            "jour": "Mardi",
+            "heure_debut": "10:00",
+            "heure_fin": "12:00",
+            "competences_visees": [],
+            "connaissances_abordees": [],
+            "document_genere": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "titre": "Comment réguler le déplacement d'un véhicule ?",
+    "theme_id": "T11",
+    "theme_titre": "Voiture",
+    "pb_titre": "chaîne information",
+    "classe": "1ère I2D",
+    "s_debut": 4,
+    "s_fin": 6,
+    "heures": "36",
+    "competences_str": "CO1.2, CO2.2",
+    "competences_selectionnees": [
+      {
+        "code": "CO1.2",
+        "connaissances": [
+          "1-3"
+        ]
+      },
+      {
+        "code": "CO2.2",
+        "connaissances": [
+          "1-3",
+          "1-4"
+        ]
+      }
+    ],
+    "couleur": "#1A4D8F",
+    "semaines": {
+      "4": {
+        "seances": [
+          {
+            "id": "de70b9fe",
+            "type": "Cours",
+            "duree": 1.0,
+            "titre": "chaîne information",
+            "pb_titre": "chaîne information",
+            "jour": "Mercredi",
+            "heure_debut": "10:00",
+            "heure_fin": "11:00",
+            "competences_visees": [
+              "CO1.2",
+              "CO2.2"
+            ],
+            "connaissances_abordees": [
+              "1-4"
+            ],
+            "document_genere": null
+          }
+        ]
+      },
+      "5": {
+        "seances": [
+          {
+            "id": "809ce172",
+            "type": "Cours",
+            "duree": 2.0,
+            "titre": "chaîne information",
+            "pb_titre": "chaîne information",
+            "jour": "Vendredi",
+            "heure_debut": "14:00",
+            "heure_fin": "16:00",
+            "competences_visees": [
+              "CO1.2",
+              "CO2.2"
+            ],
+            "connaissances_abordees": [
+              "1-3",
+              "1-4"
+            ],
+            "document_genere": null
+          },
+          {
+            "id": "11a5be59",
+            "type": "TD",
+            "duree": 2.0,
+            "titre": "chaîne information",
+            "pb_titre": "chaîne information",
+            "jour": "Lundi",
+            "heure_debut": "8:00",
+            "heure_fin": "10:00",
+            "competences_visees": [
+              "CO1.2",
+              "CO2.2"
+            ],
+            "connaissances_abordees": [
+              "1-3",
+              "1-4"
+            ],
+            "document_genere": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "titre": "test",
+    "theme_id": "T1",
+    "theme_titre": "Base ELN",
+    "pb_titre": "Nouvelle problématique",
+    "classe": "1re année",
+    "s_debut": 1,
+    "s_fin": 2,
+    "heures": "24",
+    "competences_str": "CO4",
+    "competences_selectionnees": [
+      {
+        "code": "CO4",
+        "connaissances": []
+      }
+    ],
+    "couleur": "#1565C0",
+    "semaines": {
+      "1": {
+        "seances": [
+          {
+            "id": "a6093c2b",
+            "type": "Cours",
+            "duree": 2.0,
+            "titre": "Nouvelle problématique",
+            "pb_titre": "Nouvelle problématique",
+            "jour": "Mardi",
+            "heure_debut": "8:00",
+            "heure_fin": "10:00",
+            "competences_visees": [
+              "CO4"
+            ],
+            "connaissances_abordees": [],
+            "document_genere": null
+          }
+        ]
+      }
+    }
+  }
+]

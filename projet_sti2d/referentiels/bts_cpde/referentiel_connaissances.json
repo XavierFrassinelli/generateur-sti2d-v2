@@ -1,0 +1,589 @@
+{
+  "1": {
+    "titre": "DEMARCHE DE CONCEPTION ET GESTION DE PROJET ........................................ 29",
+    "sous_chapitres": {
+      "1": {
+        "titre": "DEMARCHE DE CONCEPTION ET GESTION DE PROJET ........................................ 29",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-1": {
+        "titre": "Ingénierie système et analyse fonctionnelle",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-1-1": {
+        "titre": "Approche globale Les diagrammes SysML sont une don",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-1-2": {
+        "titre": "Approche métier : description externe Pour le cycle de vie, il s’agit pour",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-1-3": {
+        "titre": "Approche métier : description interne La description interne du système doit",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-2": {
+        "titre": "Organisation de l’entreprise industrielle",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-3": {
+        "titre": "Compétitivité des produits industriels",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-3-1": {
+        "titre": "Méthodes et outils de compétitivité La notion de propriété industrielle doit être illus",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-3-2": {
+        "titre": "Créativité et outils de recherche de solutions",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-3-3": {
+        "titre": "Analyse de la valeur",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-4": {
+        "titre": "Développement durable et éco conception",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-4-1": {
+        "titre": "Contexte du développement durable",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-4-2": {
+        "titre": "Normalisation et réglementation",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "1-4-3": {
+        "titre": "Méthodes et outils d’éco conception",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "2": {
+    "titre": "CHAINE NUMERIQUE ................................................................................................... 32",
+    "sous_chapitres": {
+      "2": {
+        "titre": "CHAINE NUMERIQUE ................................................................................................... 32",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "2-1": {
+        "titre": "Concept de « chaîne numérique »",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "2-2": {
+        "titre": "Simulation",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "2-3": {
+        "titre": "Outils de conception et représentation numériques",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "2-3-1": {
+        "titre": "Modeleurs volumiques paramétriques Le mode de modélisation sera approprié à la",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "2-3-2": {
+        "titre": "Méthodes de conception",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "2-3-3": {
+        "titre": "Relation au système de production Utilisation du prototypage dans un but de valida",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "2-4": {
+        "titre": "Représentations graphiques dérivées des maquettes numériques",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "3": {
+    "titre": "COMPORTEMENT DES SYSTÈMES MÉCANIQUES ................................................... 35",
+    "sous_chapitres": {
+      "3": {
+        "titre": "COMPORTEMENT DES SYSTÈMES MÉCANIQUES ................................................... 35",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-1": {
+        "titre": "Chaîne d’énergie",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-1-1": {
+        "titre": "Analogie Mécanique-Électrique-Hydraulique",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-1-2": {
+        "titre": "Composants de conversion d’énergie et de Il s’agit ici d’aborder et de maîtriser :",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-1-3": {
+        "titre": "Méthodes de dimensionnement d’une motorisa- La simplification de la chaîne d’énergie sera recher",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-2": {
+        "titre": "Etude des comportements mécaniques des pièces et des systèmes",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-2-1": {
+        "titre": "Modélisation des mécanismes",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-2-2": {
+        "titre": "Mouvements relatifs entre solides dans le cas Cinématique d’un solide en mouvement de rota",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-2-3": {
+        "titre": "Mouvements plans",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-2-4": {
+        "titre": "Modélisation des actions mécaniques Représentation des actions mécaniques sous",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-2-5": {
+        "titre": "Comportement mécanique des pièces et des sys",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-2-6": {
+        "titre": "Résistance des matériaux Application à la détermination analytique des",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-2-7": {
+        "titre": "Mécanique des fluides Dynamique des fluides : seulement pour les",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-21": {
+        "titre": "Modélisation des mécanismes X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-22": {
+        "titre": "Mouvements relatifs entre solides, translation et rotation X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-23": {
+        "titre": "Mouvements plans X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-24": {
+        "titre": "Modélisation des actions mécaniques X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-25": {
+        "titre": "Comportement mécanique des pièces et des systèmes X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-26": {
+        "titre": "Résistance des matériaux X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "3-27": {
+        "titre": "Mécanique des fluides X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "4": {
+    "titre": "MATERIAUX ET TRAITEMENTS ................................................................................... 39",
+    "sous_chapitres": {
+      "4": {
+        "titre": "MATERIAUX ET TRAITEMENTS ................................................................................... 39",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "4-1": {
+        "titre": "Structure et caractéristiques des matériaux:",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "4-2": {
+        "titre": "Domaines d'utilisation et traitements des matériaux :",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "4-3": {
+        "titre": "Interaction fonction matériau-géométrie-procédé-coût",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "5": {
+    "titre": "TECHNOLOGIE DES MECANISMES ............................................................................ 40",
+    "sous_chapitres": {
+      "5": {
+        "titre": "TECHNOLOGIE DES MECANISMES ............................................................................ 40",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "5-1": {
+        "titre": "Solutions constructives associées aux liaisons",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "5-2": {
+        "titre": "Eléments de transmission de puissance",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "5-3": {
+        "titre": "Eléments de conversion d’énergie",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "5-4": {
+        "titre": "Capteurs",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "5-5": {
+        "titre": "Recherche documentaire",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "6": {
+    "titre": "SPECIFICATIONS ET PROCESSUS DE CONTROLE .................................................. 42",
+    "sous_chapitres": {
+      "6": {
+        "titre": "SPECIFICATIONS ET PROCESSUS DE CONTROLE .................................................. 42",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "6-1": {
+        "titre": "Spécification des produits",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "6-1-1": {
+        "titre": "Défauts des surfaces réelles",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "6-1-2": {
+        "titre": "Types de tolérances et de spécifications:",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "6-2": {
+        "titre": "Processus de contrôle",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "6-2-1": {
+        "titre": "Instruments, outillages et protocoles de contrôle",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "7": {
+    "titre": "TECHNOLOGIE DES PROCEDES ................................................................................ 43",
+    "sous_chapitres": {
+      "7": {
+        "titre": "TECHNOLOGIE DES PROCEDES ................................................................................ 43",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-1": {
+        "titre": "Interaction conception industrialisation, optimisation de la relation produit",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-1-1": {
+        "titre": "Procédés d’obtention :",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-1-2": {
+        "titre": "Optimisation du choix des procédés de réalisation",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-1-3": {
+        "titre": "Relations caractéristiques de l’optimisation de la",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-1-4": {
+        "titre": "Méthodes de choix et procédures associées à la",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-1-5": {
+        "titre": "Optimisation d’un produit réalisé selon un procé",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-2": {
+        "titre": "Création de prototypes de pièces et de mécanismes",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-2-1": {
+        "titre": "Finalités et méthodologie du prototypage Pour le prototypage de systèmes cinématiques",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-2-2": {
+        "titre": "Domaines d'utilisation des prototypes",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-2-3": {
+        "titre": "Préparations CAO liées au prototypage",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-11": {
+        "titre": "Procédés d'obtention X X X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-12": {
+        "titre": "Optimisation du choix du procédé X X X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      },
+      "7-14": {
+        "titre": "Méthodes de choix et procédures associées à la relation PMP X X X",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "8": {
+    "titre": "CULTURE GENERALE ET EXPRESSION .................................................................... 47",
+    "sous_chapitres": {
+      "8": {
+        "titre": "CULTURE GENERALE ET EXPRESSION .................................................................... 47",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "9": {
+    "titre": "LANGUE VIVANTE ETRANGERE 1 .............................................................................. 47",
+    "sous_chapitres": {
+      "9": {
+        "titre": "LANGUE VIVANTE ETRANGERE 1 .............................................................................. 47",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "10": {
+    "titre": "MATHEMATIQUES ...................................................................................................... 48",
+    "sous_chapitres": {
+      "10": {
+        "titre": "MATHEMATIQUES ...................................................................................................... 48",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  },
+  "11": {
+    "titre": "PHYSIQUE - CHIMIE ................................................................................................... 49",
+    "sous_chapitres": {
+      "11": {
+        "titre": "PHYSIQUE - CHIMIE ................................................................................................... 49",
+        "detail": "",
+        "taxonomie": {
+          "BTS": 1
+        }
+      }
+    }
+  }
+}

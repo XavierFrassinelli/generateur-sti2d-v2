@@ -1,0 +1,16 @@
+[
+  {
+    "id": "T1",
+    "titre": "Base ELN",
+    "problematiques": [
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "1re année",
+        "competences": [
+          "CO4"
+        ],
+        "connaissances": []
+      }
+    ]
+  }
+]

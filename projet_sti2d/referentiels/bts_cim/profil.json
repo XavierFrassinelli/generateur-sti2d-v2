@@ -1,0 +1,17 @@
+{
+  "id": "bts_cim",
+  "nom": "BTS CIM",
+  "description": "",
+  "niveaux": [
+    "1"
+  ],
+  "classes": [
+    "1ère année"
+  ],
+  "couleur": "#1A4D8F",
+  "fichiers": {
+    "competences": "referentiel_competences.json",
+    "connaissances": "referentiel_connaissances.json",
+    "themes": "themes_problematiques.json"
+  }
+}

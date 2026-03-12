@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "titre": "Nouveau thème T1",
+    "problematiques": [
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "IT/I2D",
+        "competences": [],
+        "connaissances": []
+      }
+    ]
+  }
+]

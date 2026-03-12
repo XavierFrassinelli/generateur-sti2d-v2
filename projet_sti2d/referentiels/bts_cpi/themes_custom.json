@@ -1,0 +1,19 @@
+[
+  {
+    "id": "T1",
+    "titre": "Nouveau thème T1",
+    "problematiques": [
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "1ère année",
+        "competences": [
+          "CO1.3",
+          "CO3.1"
+        ],
+        "connaissances": [
+          "2-1"
+        ]
+      }
+    ]
+  }
+]

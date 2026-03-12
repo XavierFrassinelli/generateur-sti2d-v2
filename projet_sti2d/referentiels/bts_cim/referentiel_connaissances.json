@@ -1,0 +1,33 @@
+{
+  "50": {
+    "titre": "Chapitre 50",
+    "sous_chapitres": {
+      "50-106": {
+        "titre": "Connaissance 50-106",
+        "detail": "",
+        "taxonomie": {
+          "1": 1
+        }
+      },
+      "50-150": {
+        "titre": "Connaissance 50-150",
+        "detail": "",
+        "taxonomie": {
+          "1": 1
+        }
+      }
+    }
+  },
+  "95": {
+    "titre": "Chapitre 95",
+    "sous_chapitres": {
+      "95-665": {
+        "titre": "Connaissance 95-665",
+        "detail": "",
+        "taxonomie": {
+          "1": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "output_dir": "C:\\Users\\xavie\\Documents\\Lycée Victor Hugo\\Générateur_STI2D\\output",
+  "last_output_dir": "C:\\Users\\xavie\\Documents\\Lycée Victor Hugo\\Générateur_STI2D\\output",
+  "ask_output_dir_each_generation": false,
+  "classe": "1ère IT/I2D",
+  "etablissement": "Lycée Victor Hugo",
+  "logo_etablissement": "C:/Users/xavie/Documents/Lycée Victor Hugo/Générateur_STI2D V2/projet_sti2d/img/IT.png",
+  "logo_specialite": "C:/Users/xavie/Documents/Lycée Victor Hugo/Générateur_STI2D V2/projet_sti2d/img/2i2d.png",
+  "periodes": [
+    [
+      "P1",
+      1,
+      7
+    ],
+    [
+      "P2",
+      8,
+      14
+    ],
+    [
+      "P3",
+      15,
+      19
+    ],
+    [
+      "P4",
+      20,
+      25
+    ],
+    [
+      "P5",
+      26,
+      36
+    ]
+  ],
+  "profil_actif": "c:\\Users\\xavie\\Documents\\Lycée Victor Hugo\\Générateur_STI2D V2\\projet_sti2d\\referentiels\\sti2d"
+}

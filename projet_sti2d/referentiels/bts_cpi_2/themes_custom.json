@@ -1,0 +1,39 @@
+[
+  {
+    "id": "T1",
+    "titre": "Nouveau thème T1",
+    "problematiques": [
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "1",
+        "competences": [
+          "CO3",
+          "CO3.2",
+          "CO3.3",
+          "CO5"
+        ],
+        "connaissances": [
+          "3-2-4",
+          "7-1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "T2",
+    "titre": "Robotique",
+    "problematiques": [
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "1",
+        "competences": [
+          "CO1.3"
+        ],
+        "connaissances": [
+          "1-1-1",
+          "1-1-3"
+        ]
+      }
+    ]
+  }
+]

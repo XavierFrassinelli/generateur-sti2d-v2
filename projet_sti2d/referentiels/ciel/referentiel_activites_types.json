@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "schema": "bts_at_v1",
+    "version": 1,
+    "source": "auto_from_comp_conn"
+  },
+  "correspondance_competences": {
+    "C1": [
+      "CO1"
+    ],
+    "C2": [
+      "CO2"
+    ],
+    "C3": [
+      "CO3"
+    ],
+    "C4": [
+      "CO4"
+    ],
+    "C5": [
+      "CO5"
+    ],
+    "C6": [
+      "CO6"
+    ],
+    "C7": [
+      "CO7"
+    ],
+    "C8": [
+      "CO8"
+    ],
+    "C9": [
+      "CO9"
+    ],
+    "C10": [
+      "CO10"
+    ],
+    "C11": [
+      "CO11"
+    ]
+  },
+  "activites": {
+    "AT1": {
+      "titre": "Activité type 1",
+      "description": "Regroupement des compétences du bloc O1.",
+      "objectif": "O1",
+      "competences": [
+        "CO1"
+      ],
+      "connaissances": []
+    },
+    "AT2": {
+      "titre": "Activité type 2",
+      "description": "Regroupement des compétences du bloc O2.",
+      "objectif": "O2",
+      "competences": [
+        "CO2"
+      ],
+      "connaissances": []
+    },
+    "AT3": {
+      "titre": "Activité type 3",
+      "description": "Regroupement des compétences du bloc O3.",
+      "objectif": "O3",
+      "competences": [
+        "CO3"
+      ],
+      "connaissances": []
+    },
+    "AT4": {
+      "titre": "Activité type 4",
+      "description": "Regroupement des compétences du bloc O4.",
+      "objectif": "O4",
+      "competences": [
+        "CO4"
+      ],
+      "connaissances": []
+    },
+    "AT5": {
+      "titre": "Activité type 5",
+      "description": "Regroupement des compétences du bloc O5.",
+      "objectif": "O5",
+      "competences": [
+        "CO5"
+      ],
+      "connaissances": []
+    },
+    "AT6": {
+      "titre": "Activité type 6",
+      "description": "Regroupement des compétences du bloc O6.",
+      "objectif": "O6",
+      "competences": [
+        "CO6"
+      ],
+      "connaissances": []
+    },
+    "AT7": {
+      "titre": "Activité type 7",
+      "description": "Regroupement des compétences du bloc O7.",
+      "objectif": "O7",
+      "competences": [
+        "CO7"
+      ],
+      "connaissances": []
+    },
+    "AT8": {
+      "titre": "Activité type 8",
+      "description": "Regroupement des compétences du bloc O8.",
+      "objectif": "O8",
+      "competences": [
+        "CO8"
+      ],
+      "connaissances": []
+    },
+    "AT9": {
+      "titre": "Activité type 9",
+      "description": "Regroupement des compétences du bloc O9.",
+      "objectif": "O9",
+      "competences": [
+        "CO9"
+      ],
+      "connaissances": []
+    },
+    "AT10": {
+      "titre": "Activité type 10",
+      "description": "Regroupement des compétences du bloc O10.",
+      "objectif": "O10",
+      "competences": [
+        "CO10"
+      ],
+      "connaissances": []
+    },
+    "AT11": {
+      "titre": "Activité type 11",
+      "description": "Regroupement des compétences du bloc O11.",
+      "objectif": "O11",
+      "competences": [
+        "CO11"
+      ],
+      "connaissances": []
+    }
+  }
+}

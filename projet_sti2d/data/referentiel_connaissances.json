@@ -1,0 +1,230 @@
+{
+  "1": {
+    "titre": "Principes de conception des produits et développement durable",
+    "sous_chapitres": {
+      "1-1": {
+        "titre": "La démarche de projet",
+        "detail": "Projets industriels, communication technique, approche design et architecturale",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 2
+        }
+      },
+      "1-2": {
+        "titre": "Outils de l'ingénierie système",
+        "detail": "Concepts de systèmes, ingénierie système, SysML",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "1-3": {
+        "titre": "Compétitivité des produits",
+        "detail": "Paramètres de compétitivité, compromis complexité-efficacité-coût, innovation",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 2
+        }
+      },
+      "1-4": {
+        "titre": "Créativité et innovation technologique",
+        "detail": "Méthodes de créativité, intégration des fonctions, optimisation",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 2
+        }
+      },
+      "1-5": {
+        "titre": "Approche environnementale",
+        "detail": "Cycle de vie, mise à disposition des ressources, utilisation raisonnée des ressources",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      }
+    }
+  },
+  "2": {
+    "titre": "Approche fonctionnelle et structurelle des produits",
+    "sous_chapitres": {
+      "2-1": {
+        "titre": "Représentation des flux MEI",
+        "detail": "Notion de flux et de stock, flux de transfert de matière/énergie/information, diagrammes IBD/SANKEY",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "2-2": {
+        "titre": "Approche fonctionnelle et structurelle des ossatures et enveloppes",
+        "detail": "Typologie des enveloppes, des ossatures, des assemblages",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "2-3": {
+        "titre": "Approche fonctionnelle et structurelle des chaînes de puissance",
+        "detail": "Chaînes de puissance, stockage d'énergie, conversion, modulation, adaptation, transmission",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "2-4": {
+        "titre": "Approche fonctionnelle et structurelle d'une chaîne d'information",
+        "detail": "Chaînes d'information, acquisition et restitution de l'information, codage et traitement",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      }
+    }
+  },
+  "3": {
+    "titre": "Approche comportementale des produits",
+    "sous_chapitres": {
+      "3-1": {
+        "titre": "Modélisation multiphysique",
+        "detail": "Principes de modélisation, comportements multi-domaines physiques",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "3-2": {
+        "titre": "Comportement mécanique",
+        "detail": "Statique, résistance des matériaux, déformations, contraintes",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "3-3": {
+        "titre": "Comportements énergétiques et thermiques",
+        "detail": "Transferts thermiques, rendements énergétiques, efficacité globale",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "3-4": {
+        "titre": "Comportements informationnel et temporel",
+        "detail": "Automatismes, systèmes logiques, comportement temporel des systèmes",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      }
+    }
+  },
+  "4": {
+    "titre": "Éco-conception des produits",
+    "sous_chapitres": {
+      "4-1": {
+        "titre": "Outils de représentation du réel",
+        "detail": "Maquette numérique, modélisation 3D, représentation normalisée",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "4-2": {
+        "titre": "Approche de l'optimisation",
+        "detail": "Optimisation multi-objectifs, indicateurs de performance, compromis",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "4-3": {
+        "titre": "Conception de produits et développement durable",
+        "detail": "Éco-conception, analyse du cycle de vie, indicateurs environnementaux",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      }
+    }
+  },
+  "5": {
+    "titre": "Solutions constructives",
+    "sous_chapitres": {
+      "5-1": {
+        "titre": "Solutions constructives de liaison",
+        "detail": "Guidages, liaisons encastrement, solutions constructives de transmissions",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "5-2": {
+        "titre": "Solutions constructives de conversion et modulation d'énergie",
+        "detail": "Actionneurs, convertisseurs, générateurs, sources d'énergie",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "5-3": {
+        "titre": "Solutions constructives de traitement de l'information",
+        "detail": "Microcontrôleurs, cartes de développement, capteurs/actionneurs numériques",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      }
+    }
+  },
+  "6": {
+    "titre": "Prototypage et expérimentations",
+    "sous_chapitres": {
+      "6-1": {
+        "titre": "Procédés de réalisation",
+        "detail": "Procédés de fabrication, mise en forme des matériaux, usinage, impression 3D",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "6-2": {
+        "titre": "Prototypage",
+        "detail": "Réalisation de prototypes, maquettes, validation partielle du cahier des charges",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      },
+      "6-3": {
+        "titre": "Expérimentations et mesures",
+        "detail": "Protocoles d'essais, instrumentation, mesures, exploitation des résultats",
+        "taxonomie": {
+          "IT": 2,
+          "I2D": 2,
+          "2I2D": 3
+        }
+      }
+    }
+  }
+}

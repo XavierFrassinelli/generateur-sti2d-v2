@@ -1,0 +1,22 @@
+{
+  "id": "sti2d",
+  "nom": "STI2D",
+  "description": "Profil STI2D généré depuis Programme Stid2D1_et_T.pdf",
+  "niveaux": [
+    "IT",
+    "I2D",
+    "2I2D"
+  ],
+  "classes": [
+    "1ère IT",
+    "1ère I2D",
+    "1ère IT/I2D",
+    "Terminale 2I2D"
+  ],
+  "couleur": "#2A6DB5",
+  "fichiers": {
+    "competences": "referentiel_competences.json",
+    "connaissances": "referentiel_connaissances.json",
+    "themes": "themes_problematiques.json"
+  }
+}

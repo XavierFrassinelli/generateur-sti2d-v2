@@ -1,0 +1,205 @@
+{
+  "objectifs": {
+    "O1": "Objectif 1",
+    "O2": "Objectif 2",
+    "O3": "Objectif 3",
+    "O4": "Objectif 4",
+    "O5": "Objectif 5",
+    "O6": "Objectif 6",
+    "O21": "Objectif 21"
+  },
+  "competences": {
+    "CO1": {
+      "objectif": "O1",
+      "libelle": "S’informer",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO1.1": {
+      "objectif": "O1",
+      "libelle": "Rechercher, exploiter des documents",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO1.2": {
+      "objectif": "O1",
+      "libelle": "Décrire, caractériser, classer",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO2": {
+      "objectif": "O2",
+      "libelle": "1 Informer, alerter Communiquer 2.1. Analyse et optimisation technico- économiques des solutions 1 Estimer les coûts et les délais techniques pour un produit Dimensionner les éléments, évaluer les performances d’une 2.2. Validation structurelle d’une solution",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO2.1": {
+      "objectif": "O2",
+      "libelle": "Informer, Alerter",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO3": {
+      "objectif": "O3",
+      "libelle": "Évaluer Valider la conformité d’une solution 3.1. Détermination des procédés 4 technique par rapport à son cahier d’obtention des charges fonctionnel 5 Choisir les moyens de production 3.2. Définition de l’outillage de validation 3.3. Réalisation de l’outillag",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO3.1": {
+      "objectif": "O3",
+      "libelle": "Estimer les coûts et les délais",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO3.2": {
+      "objectif": "O3",
+      "libelle": "Dimensionner les éléments, évaluer les performances d’une solution en phase de conception préliminaire",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO3.3": {
+      "objectif": "O3",
+      "libelle": "Dimensionner les éléments, évaluer les performances d’une solution en phase de conception détaillée",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO3.4": {
+      "objectif": "O3",
+      "libelle": "Valider la conformité d’une solution technique par rapport à son CdCF",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO3.5": {
+      "objectif": "O3",
+      "libelle": "Choisir les moyens de production",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO4": {
+      "objectif": "O4",
+      "libelle": "Concevoir 3.4. Qualification de l’outillage de Rechercher, imaginer, adapter en",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO4.1": {
+      "objectif": "O4",
+      "libelle": "Rechercher, Imaginer, Adapter en phase de conception préliminaire",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO4.2": {
+      "objectif": "O4",
+      "libelle": "Rechercher, Imaginer, Adapter en phase de conception détaillée",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO5": {
+      "objectif": "O5",
+      "libelle": "2 Représenter une solution technique Mettre en forme Produire, exploiter un modèle",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO5.1": {
+      "objectif": "O5",
+      "libelle": "Constituer, Actualiser un dossier technique",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO5.2": {
+      "objectif": "O5",
+      "libelle": "Représenter une solution technique",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO5.3": {
+      "objectif": "O5",
+      "libelle": "Produire, Exploiter un modèle numérique",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO6": {
+      "objectif": "O6",
+      "libelle": "Mettre en œuvre",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO6.1": {
+      "objectif": "O6",
+      "libelle": "Mettre en œuvre une fabrication unitaire dans le respect des règles de sécurité",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO6.2": {
+      "objectif": "O6",
+      "libelle": "Mettre en œuvre les moyens informatiques dédiés à la réalisation",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO6.3": {
+      "objectif": "O6",
+      "libelle": "Mettre en œuvre l’outil de réalisation dans le respect des règles de sécurité",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO21": {
+      "objectif": "O21",
+      "libelle": "du référentiel consiste, pour le candidat, à exposer les activités de son stage en analysant les problèmes rencontrés et les démarches adoptées. La commission d’interrogation, qui a fait un examen du rapport de stage mis à sa disposition avant l’épreuve, consa",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    },
+    "CO1.3": {
+      "objectif": "O1",
+      "libelle": "Réfléchir",
+      "niveaux": {
+        "1": ""
+      },
+      "connaissances": []
+    }
+  }
+}

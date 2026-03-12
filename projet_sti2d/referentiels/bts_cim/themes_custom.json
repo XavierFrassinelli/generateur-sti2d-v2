@@ -1,0 +1,34 @@
+[
+  {
+    "id": "T1",
+    "titre": "découverte de l'electronique",
+    "problematiques": [
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "1ère année",
+        "competences": [
+          "CO1",
+          "CO2",
+          "CO2.1",
+          "CO3.1"
+        ],
+        "connaissances": []
+      }
+    ]
+  },
+  {
+    "id": "T2",
+    "titre": "programmation",
+    "problematiques": [
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "1ère année",
+        "competences": [
+          "CO1.1",
+          "CO2"
+        ],
+        "connaissances": []
+      }
+    ]
+  }
+]

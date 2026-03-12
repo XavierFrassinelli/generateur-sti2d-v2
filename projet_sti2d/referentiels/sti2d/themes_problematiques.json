@@ -1,0 +1,207 @@
+[
+  {
+    "id": "T1",
+    "titre": "Concevoir une maison positive",
+    "problematiques": [
+      {
+        "id": "P1_1",
+        "titre": "Peut-on travailler en équipe sans maîtriser les unités et leur conversion ?",
+        "competences": [
+          "CO1.1",
+          "CO1.3"
+        ],
+        "connaissances": [
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-1",
+          "4-2",
+          "3-1",
+          "3-3",
+          "4-1",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P1_2",
+        "titre": "Comment évaluer les performance d'un panneau solaire ?",
+        "competences": [
+          "CO3.1",
+          "CO3.2",
+          "CO4.1",
+          "CO5.3"
+        ],
+        "connaissances": [
+          "1-2",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "4-1",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "1-1"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P1_3",
+        "titre": "Comment optimiser les performance d'une installation photovoltaïque ?",
+        "competences": [
+          "CO3.3",
+          "CO3.4"
+        ],
+        "connaissances": [
+          "1-2",
+          "2-3",
+          "2-4",
+          "3-4",
+          "4-3",
+          "6-3",
+          "2-1",
+          "2-2",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-2"
+        ],
+        "niveau": "IT/I2D"
+      }
+    ]
+  },
+  {
+    "id": "T2",
+    "titre": "Bras manipulateur",
+    "problematiques": [
+      {
+        "id": "P2_1",
+        "titre": "Comment automatiser une tâche en entreprise ?",
+        "competences": [
+          "CO4.1",
+          "CO5.5"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "4-1",
+          "1-3",
+          "1-4",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-2"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P2_2",
+        "titre": "Comment s'inscrire dans une démarche de développement durable ?",
+        "competences": [
+          "CO1.2",
+          "CO1.3"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-3",
+          "1-5",
+          "2-1",
+          "3-1",
+          "3-3",
+          "4-1",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P2_3",
+        "titre": "Comment adapter un robot industriel ?",
+        "competences": [
+          "CO2.1",
+          "CO5.5",
+          "CO7.1"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-4",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-2",
+          "6-1",
+          "6-3"
+        ],
+        "niveau": "IT/I2D"
+      }
+    ]
+  },
+  {
+    "id": "T3",
+    "titre": "Robobrole",
+    "problematiques": [
+      {
+        "id": "P3_1_1",
+        "titre": "Comment valider le comportement cinématique de notre robot ?",
+        "competences": [
+          "CO6.4",
+          "CO7.2"
+        ],
+        "connaissances": [
+          "3-1",
+          "3-2",
+          "3-3",
+          "3-4",
+          "6-3",
+          "1-2",
+          "2-1",
+          "6-2"
+        ],
+        "niveau": "IT/I2D"
+      }
+    ]
+  },
+  {
+    "id": "T6",
+    "titre": "Identifier et qualifier les sollicitations mécaniques",
+    "problematiques": [
+      {
+        "id": "P6_1",
+        "titre": "Comment appréhender le déplacement des mobiles et les efforts en jeu ?",
+        "competences": [
+          "CO3.3",
+          "CO6.3"
+        ],
+        "connaissances": [
+          "1-2",
+          "2-3",
+          "2-4",
+          "3-4",
+          "4-3",
+          "6-3",
+          "3-1",
+          "3-2",
+          "3-3"
+        ],
+        "niveau": "IT/I2D"
+      }
+    ]
+  }
+]

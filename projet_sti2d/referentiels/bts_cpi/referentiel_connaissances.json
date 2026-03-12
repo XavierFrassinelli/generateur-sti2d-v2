@@ -1,0 +1,86 @@
+{
+  "1": {
+    "titre": "Analyse fonctionnelle et structurelle",
+    "sous_chapitres": {
+      "1-1": {
+        "titre": "Approche fonctionnelle et structurelle des systèmes",
+        "detail": "",
+        "taxonomie": {
+          "1ère année": 0,
+          "2ème année": 0
+        }
+      },
+      "1-2": {
+        "titre": "Outils de représentation et modeleur 3D volumique",
+        "detail": "",
+        "taxonomie": {
+          "1ère année": 0,
+          "2ème année": 0
+        }
+      }
+    }
+  },
+  "2": {
+    "titre": "Comportement des systèmes mécaniques",
+    "sous_chapitres": {
+      "2-1": {
+        "titre": "Statique et cinématique des solides",
+        "detail": "",
+        "taxonomie": {
+          "1ère année": 0,
+          "2ème année": 0
+        }
+      },
+      "2-2": {
+        "titre": "Résistance des matériaux (Traction, Torsion, Flexion)",
+        "detail": "",
+        "taxonomie": {
+          "1ère année": 0,
+          "2ème année": 0
+        }
+      }
+    }
+  },
+  "3": {
+    "titre": "Matériaux et traitements",
+    "sous_chapitres": {
+      "3-1": {
+        "titre": "Propriétés physiques et mécaniques des matériaux",
+        "detail": "",
+        "taxonomie": {
+          "1ère année": 0,
+          "2ème année": 0
+        }
+      },
+      "3-2": {
+        "titre": "Critères de choix techniques et économiques des matériaux",
+        "detail": "",
+        "taxonomie": {
+          "1ère année": 0,
+          "2ème année": 0
+        }
+      }
+    }
+  },
+  "4": {
+    "titre": "Industrialisation et procédés",
+    "sous_chapitres": {
+      "4-1": {
+        "titre": "Relation entre formes, matériaux et procédés d'obtention",
+        "detail": "",
+        "taxonomie": {
+          "1ère année": 0,
+          "2ème année": 0
+        }
+      },
+      "4-2": {
+        "titre": "Contraintes de fabrication et d'assemblage dans la conception",
+        "detail": "",
+        "taxonomie": {
+          "1ère année": 0,
+          "2ème année": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,445 @@
+[
+  {
+    "id": "T1",
+    "titre": "Réduire l'impact environnemental",
+    "problematiques": [
+      {
+        "id": "P1_1",
+        "titre": "Qu'est-ce qu'un produit éco-conçu ?",
+        "competences": [
+          "CO1.1",
+          "CO1.3",
+          "CO2.2",
+          "CO5.2",
+          "CO5.6"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-1",
+          "3-1",
+          "3-3",
+          "4-1",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P1_2",
+        "titre": "Comment réduire l'empreinte carbone d'un produit ?",
+        "competences": [
+          "CO1.3",
+          "CO2.1",
+          "CO5.5",
+          "CO5.7"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-3",
+          "2-4",
+          "3-1",
+          "3-3",
+          "4-1",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-2"
+        ],
+        "niveau": "IT/I2D"
+      }
+    ]
+  },
+  {
+    "id": "T2",
+    "titre": "Assister l'humain",
+    "problematiques": [
+      {
+        "id": "P2_1",
+        "titre": "Comment faciliter la mobilité ?",
+        "competences": [
+          "CO1.2",
+          "CO3.1",
+          "CO3.3",
+          "CO5.3",
+          "CO6.3"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-5",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "3-1",
+          "3-2",
+          "3-3",
+          "3-4",
+          "4-1",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-3"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P2_2",
+        "titre": "Comment améliorer l'accessibilité pour tous ?",
+        "competences": [
+          "CO1.2",
+          "CO2.1",
+          "CO4.1",
+          "CO5.2"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "4-1",
+          "4-3"
+        ],
+        "niveau": "IT/I2D"
+      }
+    ]
+  },
+  {
+    "id": "T3",
+    "titre": "Produire et distribuer de l'énergie",
+    "problematiques": [
+      {
+        "id": "P3_1",
+        "titre": "Comment produire de l'énergie de façon durable ?",
+        "competences": [
+          "CO1.1",
+          "CO3.1",
+          "CO6.1",
+          "CO6.2",
+          "CO7.1"
+        ],
+        "connaissances": [
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "3-1",
+          "3-2",
+          "3-3",
+          "3-4",
+          "4-1",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-1",
+          "6-2",
+          "6-3"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P3_2",
+        "titre": "Comment optimiser la distribution d'énergie ?",
+        "competences": [
+          "CO1.3",
+          "CO3.2",
+          "CO6.3",
+          "CO6.4"
+        ],
+        "connaissances": [
+          "1-2",
+          "1-5",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "3-1",
+          "3-2",
+          "3-3",
+          "3-4",
+          "4-1",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-3"
+        ],
+        "niveau": "I2D"
+      }
+    ]
+  },
+  {
+    "id": "T4",
+    "titre": "Gérer et exploiter l'information",
+    "problematiques": [
+      {
+        "id": "P4_1",
+        "titre": "Comment le numérique transforme-t-il nos produits ?",
+        "competences": [
+          "CO3.3",
+          "CO3.4",
+          "CO4.2",
+          "CO5.7",
+          "CO6.1"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "3-1",
+          "3-2",
+          "3-3",
+          "3-4",
+          "4-1",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-2",
+          "6-3"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P4_2",
+        "titre": "Comment concevoir un produit connecté ?",
+        "competences": [
+          "CO1.1",
+          "CO3.2",
+          "CO5.5",
+          "CO6.4",
+          "CO7.2"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "3-1",
+          "3-2",
+          "3-3",
+          "3-4",
+          "4-1",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-2",
+          "6-3"
+        ],
+        "niveau": "IT/I2D"
+      }
+    ]
+  },
+  {
+    "id": "T5",
+    "titre": "Créer et innover",
+    "problematiques": [
+      {
+        "id": "P5_1",
+        "titre": "Comment concevoir un produit innovant ?",
+        "competences": [
+          "CO1.2",
+          "CO2.2",
+          "CO4.1",
+          "CO5.5",
+          "CO5.6"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "4-1",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-2"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P5_2",
+        "titre": "Comment faire évoluer un produit existant ?",
+        "competences": [
+          "CO2.1",
+          "CO2.2",
+          "CO5.5",
+          "CO5.7"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-3",
+          "2-4",
+          "4-1",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-2"
+        ],
+        "niveau": "IT"
+      }
+    ]
+  },
+  {
+    "id": "T6",
+    "titre": "Communiquer et transmettre",
+    "problematiques": [
+      {
+        "id": "P6_1",
+        "titre": "Comment décrire et présenter un projet technique ?",
+        "competences": [
+          "CO4.1",
+          "CO4.2",
+          "CO4.3",
+          "CO5.1"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "4-1",
+          "4-2",
+          "6-2"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P6_2",
+        "titre": "Comment représenter un système complexe ?",
+        "competences": [
+          "CO3.1",
+          "CO3.2",
+          "CO4.1",
+          "CO5.3"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "2-1",
+          "2-2",
+          "2-3",
+          "2-4",
+          "4-1",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3"
+        ],
+        "niveau": "IT/I2D"
+      }
+    ]
+  },
+  {
+    "id": "T7",
+    "titre": "Valider et expérimenter",
+    "problematiques": [
+      {
+        "id": "P7_1",
+        "titre": "Comment valider les performances d'un produit ?",
+        "competences": [
+          "CO6.3",
+          "CO6.4",
+          "CO7.1",
+          "CO7.2"
+        ],
+        "connaissances": [
+          "1-2",
+          "2-1",
+          "3-1",
+          "3-2",
+          "3-3",
+          "3-4",
+          "6-1",
+          "6-2",
+          "6-3"
+        ],
+        "niveau": "IT/I2D"
+      },
+      {
+        "id": "P7_2",
+        "titre": "Comment construire et tester un prototype ?",
+        "competences": [
+          "CO5.7",
+          "CO7.1",
+          "CO7.2"
+        ],
+        "connaissances": [
+          "1-1",
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5",
+          "2-1",
+          "2-3",
+          "2-4",
+          "4-1",
+          "4-2",
+          "4-3",
+          "5-1",
+          "5-2",
+          "5-3",
+          "6-1",
+          "6-2",
+          "6-3"
+        ],
+        "niveau": "IT/I2D"
+      }
+    ]
+  }
+]

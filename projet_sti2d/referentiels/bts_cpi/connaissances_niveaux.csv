@@ -1,0 +1,9 @@
+﻿ref,chapitre_id,chapitre_titre,sous_chapitre_titre,detail,1re année,2e année
+1-1,1,Analyse fonctionnelle et structurelle,Approche fonctionnelle et structurelle des systèmes,,1,1
+1-2,1,Analyse fonctionnelle et structurelle,Outils de représentation et modeleur 3D volumique,,1,1
+2-1,2,Comportement des systèmes mécaniques,Statique et cinématique des solides,,1,1
+2-2,2,Comportement des systèmes mécaniques,"Résistance des matériaux (Traction, Torsion, Flexion)",,1,1
+3-1,3,Matériaux et traitements,Propriétés physiques et mécaniques des matériaux,,1,1
+3-2,3,Matériaux et traitements,Critères de choix techniques et économiques des matériaux,,1,1
+4-1,4,Industrialisation et procédés,"Relation entre formes, matériaux et procédés d'obtention",,1,1
+4-2,4,Industrialisation et procédés,Contraintes de fabrication et d'assemblage dans la conception,,1,1

@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l \"C:\\\\Users\\\\xavie\\\\Documents\\\\Lycée Victor Hugo\\\\Générateur_STI2D V2\\\\projet_sti2d\\\\data\"/*.json)",
+      "Bash(python -c \"import main; print\\(''OK''\\)\")",
+      "Bash(python -c \"import editeur_themes; print\\(''OK''\\)\")",
+      "Bash(python -c \"import pypdf; print\\(''pypdf OK''\\)\")",
+      "Bash(python -c \"import pdfplumber; print\\(''pdfplumber OK''\\)\")",
+      "Bash(pip install pdfplumber pypdf)",
+      "Bash(where python)",
+      "Bash(python -c \"import sys; print\\(sys.executable\\)\")",
+      "Bash(\"C:/Users/xavie/AppData/Local/Python/bin/python.exe\" --version)",
+      "Bash(\"C:/Users/xavie/AppData/Local/Python/bin/python.exe\" -c \"import pdfplumber; print\\(''pdfplumber OK''\\)\")",
+      "Bash(\"C:/Users/xavie/AppData/Local/Microsoft/WindowsApps/python.exe\" --version)",
+      "Bash(\"C:/Users/xavie/AppData/Local/Microsoft/WindowsApps/python.exe\" -c \"import pdfplumber; print\\(''pdfplumber OK''\\)\")",
+      "Bash(where pip)",
+      "Bash(pip --version)",
+      "Bash(\"C:/Program Files/Inkscape/bin/python.exe\" -c \"import pdfplumber; print\\(''OK''\\)\")",
+      "Bash(\"C:/Program Files/Inkscape/bin/python.exe\" -m pip install pdfplumber pypdf)",
+      "Bash(py --list)",
+      "Bash(py -3.11 -c \"import pdfplumber; print\\(''pdfplumber OK''\\); import tkinter; print\\(''tkinter OK''\\)\")",
+      "Bash(py -3.11 -c \":*)"
+    ]
+  }
+}

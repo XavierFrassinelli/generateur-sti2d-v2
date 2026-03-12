@@ -1,0 +1,98 @@
+[
+  {
+    "id": "T8",
+    "titre": "Mobilité",
+    "problematiques": [
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "IT",
+        "competences": [
+          "CO1.1"
+        ],
+        "connaissances": [
+          "1-3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "T9",
+    "titre": "Structure et mouvement des montagnes russes",
+    "problematiques": [
+      {
+        "titre": "Comment assurer la sécurité des utilisateur au regard de lastructure ?",
+        "niveau": "Terminale 2I2D",
+        "competences": [
+          "CO3.1"
+        ],
+        "connaissances": [
+          "2-1",
+          "2-2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "T10",
+    "titre": "Réseaux",
+    "problematiques": [
+      {
+        "titre": "Comment sécuriser les réseaux",
+        "niveau": "Terminale 2I2D",
+        "competences": [
+          "CO1.1",
+          "CO3.4"
+        ],
+        "connaissances": [
+          "2-1"
+        ]
+      },
+      {
+        "titre": "Paramétrer et sécuriser un réseau",
+        "niveau": "Terminale 2I2D",
+        "competences": [
+          "CO5.2"
+        ],
+        "connaissances": [
+          "2-1"
+        ]
+      },
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "1ère IT",
+        "competences": [],
+        "connaissances": []
+      }
+    ]
+  },
+  {
+    "id": "T11",
+    "titre": "Voiture",
+    "problematiques": [
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "1ère IT",
+        "competences": [],
+        "connaissances": []
+      },
+      {
+        "titre": "chaîne information",
+        "niveau": "1ère I2D",
+        "competences": [
+          "CO1.2",
+          "CO2.2"
+        ],
+        "connaissances": [
+          "1-3",
+          "1-4"
+        ]
+      },
+      {
+        "titre": "Nouvelle problématique",
+        "niveau": "1ère IT",
+        "competences": [],
+        "connaissances": []
+      }
+    ]
+  }
+]
