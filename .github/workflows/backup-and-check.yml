@@ -1,0 +1,42 @@
+name: Backup And Check
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - "v*"
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 1"
+
+jobs:
+  backup-and-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Compile Python Sources
+        run: |
+          python -m compileall -q projet_sti2d
+
+      - name: Create Backup Archive
+        run: |
+          tar \
+            --exclude=".git" \
+            -czf "backup-${{ github.event.repository.name }}-${{ github.run_number }}.tar.gz" \
+            .
+
+      - name: Upload Backup Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: backup-${{ github.event.repository.name }}-${{ github.run_number }}
+          path: backup-${{ github.event.repository.name }}-${{ github.run_number }}.tar.gz
+          retention-days: 30
