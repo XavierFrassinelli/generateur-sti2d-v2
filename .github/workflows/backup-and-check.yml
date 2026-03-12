@@ -29,10 +29,10 @@ jobs:
 
       - name: Create Backup Archive
         run: |
-          tar \
-            --exclude=".git" \
-            -czf "backup-${{ github.event.repository.name }}-${{ github.run_number }}.tar.gz" \
-            .
+          git archive \
+            --format=tar.gz \
+            --output="backup-${{ github.event.repository.name }}-${{ github.run_number }}.tar.gz" \
+            HEAD
 
       - name: Upload Backup Artifact
         uses: actions/upload-artifact@v4
